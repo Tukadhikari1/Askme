@@ -8,6 +8,15 @@ const question = [
             { text: "14", correct: false},
         ]
     },
+      {
+        quistion: "Chef @ Echo?",
+        answers: [
+            { text: "Harihar", correct: false},
+            { text: "Samy", correct: false},
+            { text: "Karim", correct: false},
+            { text: "Mr. Khum", correct: true},
+        ]
+    },
      {
         quistion: "Camp Boss @ Echo?",
         answers: [
