@@ -1,5 +1,23 @@
 const question = [
     {
+        quistion: "How many Amwaj crew @ Echo?",
+        answers: [
+            { text: "19", correct: true},
+            { text: "12", correct: false},
+            { text: "28", correct: false},
+            { text: "14", correct: false},
+        ]
+    },
+     {
+        quistion: "Camp Boss @ Echo?",
+        answers: [
+            { text: "John", correct: false},
+            { text: "Francisco", correct: true},
+            { text: "Mahesh", correct: false},
+            { text: "Mark", correct: false},
+        ]
+    },
+    {
         quistion: "How many continent are in the world?",
         answers: [
             { text: "5", correct: false},
