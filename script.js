@@ -38,7 +38,7 @@ const question = [
         ]
 
     },
-    {
+    
     {
         quistion: "What is the distance around Earth at the Equator ?",
         answers: [
