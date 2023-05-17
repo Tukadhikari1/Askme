@@ -33,8 +33,8 @@ const question = [
         answers: [
             { text: "6-7pm", correct: false},
             { text: "5-7pm", correct: false},
-            { text: "5:15 to 7:00 pm", correct: true},
-            { text: "4:45 to 7:00 pm", correct: false},
+            { text: "515 to 7pm", correct: true},
+            { text: "4 to 7 pm", correct: false},
         ]
 
     },
